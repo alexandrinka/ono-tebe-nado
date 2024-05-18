@@ -49,6 +49,7 @@
   flex-direction: column;
   max-width: 240px;
   width: 100%;
+  font-style: normal;
 }
 
 .address-item {
@@ -182,7 +183,7 @@
   background-position: center;
   max-width: 334px;
   width: 100%;
-  height: 563px;
+  min-height: 563px;
   position: relative;
   z-index: 0;
 }
